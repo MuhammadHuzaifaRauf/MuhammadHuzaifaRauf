@@ -1,4 +1,4 @@
-
+<h1 align="center"> Muhammad Huzaifa<h1/>
 <p align="center">MERN Stack Developer & Real-time Firebase Developer</p>
 
 <p align="center">Welcome to my GitHub profile! 🚀</p>
