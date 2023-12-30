@@ -37,10 +37,9 @@
   <img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" height="50" />
 </div>
 
-
+</br>
+</br>
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-mughal&show_icons=true&locale=en&layout=compact" alt="haris-mughal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haris-mughal&show_icons=true&locale=en" alt="haris-mughal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haris-mughal&" alt="haris-mughal" /></p>
