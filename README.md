@@ -16,13 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/you_call_me_harii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="you_call_me_harii_" height="30" width="40" /></a>
-<a href="https://twitter.com/haris_mughal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haris_mughal007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-haris-ahsan-825113249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haris-ahsan-825113249" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100061029926998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100061029926998" height="30" width="40" /></a>
-<a href="https://instagram.com/you_call_me_harii_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="you_call_me_harii_/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammad_haris_ahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad_haris_ahsan" height="30" width="40" /></a>
-</p>
+ 
+<a href="https://www.linkedin.com/in/huzaifa-rauf-its-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa-rauf-its-me" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/who__zaifaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="who__zaifaa/" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools i work with</h3>
 
