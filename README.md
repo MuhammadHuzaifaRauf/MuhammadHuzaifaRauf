@@ -7,21 +7,12 @@
 - 
 - 👯 I’m looking to collaborate on Development Related Projects
 
-- 🤝 I’m looking for help with [...](...)
-
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 📝 I regularly write articles on [...](...)
-
 - 💬 Ask me about <b>Frontend</b> & <b>Backend</b> Development if u have any quries
 
 - 📫 How to reach me mhuzaifarauf13@gmail.com
 
 - ⚡ Fun fact Lazy but <b>Smart</b>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,15 +26,20 @@
 
 <h3 align="left">Languages and Tools i work with</h3>
 ### Technologies I've Worked With:
+### Technologies I've Worked With:
 
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Next.js](https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png)
-![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png)
-![Sass](https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png)
-![MongoDB](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-![Firebase](https://firebase.google.com/images/brand-guidelines/logo-vertical.png)
+<p float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50" />
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="50" />
+  <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" height="50" />
+  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50" />
+  <img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" height="50" />
+</p>
+
+
 
 
 
