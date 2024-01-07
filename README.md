@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact Lazy but <b>Smart</b>
 
+- ⚡ "Experience is a bit limited, but <b>Passion</b> is immense."
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
