@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 'Muhammad Huzaifa'</h1>
-<h3 align="center">A passionate MERN Stack Developer & Real-time Firebase Developer</h3>
+<h3 align="center">A passionate <b>MERN</b> Stack Developer.</h3>
 
 
 
