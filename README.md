@@ -9,7 +9,7 @@
 
 - 📫 How to reach me mhuzaifarauf13@gmail.com
 
-- ⚡ Fun fact: Lazy but <b>Smart</b>
+- ⚡ Fun fact: Lazy but <b></b>
 
 - ⚡ "Experience is a bit limited, but <b>Passion</b> is immense."
 
