@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 'Muhammad Huz'</h1>
+<h1 align="center">Hi 👋, I'm 'Muhammad Huza'</h1>
 <h3 align="center">A passionate <b>MERN</b> Stack Developer</h3>
 
 - 🔭 I’m currently working on MERN Stack Technology
