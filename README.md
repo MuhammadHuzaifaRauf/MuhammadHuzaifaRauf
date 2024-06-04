@@ -38,4 +38,5 @@
 </br>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-mughal&show_icons=true&locale=en&layout=compact" alt="haris-mughal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-mughal&show_icons=true&locale=en&layout=compact" alt="huzaifa
+    -mughal" /></p>
