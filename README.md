@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools I work with</h3>
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 40px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50" />
   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="50" />
